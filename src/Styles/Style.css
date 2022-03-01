@@ -1,0 +1,407 @@
+.image{
+    position: fixed;
+    width: 750px;
+}
+.display{
+    display: flex;
+}
+.drawer{
+    
+    text-align: center;
+    margin-left: 100px;
+    
+}
+.cardcontent{
+    width: 442px;
+    margin-left: 10px;
+
+}
+.loginbutton{
+    margin-bottom: 68px;
+    margin-left: 235px;
+}
+.textfield{
+    margin-left: 2px;
+    margin-top: 32px;
+}
+.loginhead{
+
+    margin-top: 19px;
+    margin-left: 49px;
+    padding: 60px;
+    font-size: xx-large;
+    color: chocolate;
+}
+.dosaimage{
+    width: 108px;
+    margin-left: 448px;
+    margin-top: -160px;
+    padding-bottom: 32px;
+}
+.hottelname{
+    font-size: 30px;
+    font-style: oblique;
+    font-family: fantasy;
+    
+    padding-top: 54px;
+    display: flex;
+}
+.logoname
+{
+    
+    display: flex;
+    margin-top: 90px;
+}
+.himage{
+    width: 100px;
+}
+.nimage{
+    width: 100px;
+}
+.padding-down{
+     padding-bottom: 30px;
+   
+    
+   
+}
+.inputfield{
+    padding-bottom: 20px;
+}
+.close{
+    cursor: pointer;
+    margin-left: 675px;
+    margin-top: 15px;
+}
+.arrowdown
+{
+    padding-bottom: 120px;
+}
+.drawlogin{
+    width: 446px;
+    display: inherit;
+    align-items: inherit;
+    justify-content: inherit;
+    background-color: #e66a2c;
+    border-radius: 12px;
+    height: 220px;
+    padding-top: 50px
+    
+}
+.logintext{
+
+}
+.log {
+    
+}
+.lettercolor{
+    color: rgb(178, 189, 199);
+   font-weight: 800;
+    
+}
+.addorderbutton
+
+{
+    color: aliceblue;
+   font-size: x-small;
+    
+   
+
+}
+.backarrow{
+    
+    cursor: pointer;
+    padding-left: 30px;
+    color: chocolate;
+}
+.drawboxlogin{
+    
+    border: outset;
+    background-color: white;
+    width: 70px;
+    border-radius: 3px;
+  
+    margin-left: 294px;
+   
+}
+.button
+{
+   color:#e07445; 
+}
+.color{
+    color: #e07445;
+}
+.textbox{
+    color:antiquewhite;
+}
+
+.socialicon{
+    display: flex;
+    
+}
+.facebook
+{
+    height: 40px;
+    padding-left: 5px;
+}
+.insta
+{
+    height: 40px;
+}
+.twitt
+{
+    height: 40px;
+}
+.texttransition{
+    margin-left: 153px;
+    margin-top: 152px;
+    font-size: x-large;
+}
+.quotes{
+    font-size: xx-large;
+    color: #e07445;
+    font-optical-sizing: -19px;
+    font-variant-caps: small-caps;
+    font-weight: 600;
+}
+.addressname{
+    display: flex;
+    
+}
+.errormsg{
+    margin-left: 3px;
+    font-size: smaller;
+    color: rgb(184, 184, 53)
+}
+.menu{
+    display: flex;
+    margin-top: 28px;
+}
+.break
+{
+    width: 400px;
+    height:265px;
+    border-radius: 10px;
+}
+.lunch{
+    height: 265px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+
+.dinner{
+    width: 400px;
+    border-radius: 10px;
+}
+.menulogin{
+    display: flex;
+    padding-bottom: 40px;
+}
+.brludi{
+    margin-left: 337px;
+    
+    font-style: oblique;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: serif;
+    color: #e96018;
+}
+.btndisable:disabled
+{
+  opacity: 0.5;
+}
+.foodtext{
+    margin-left: 462px;
+    font-style: oblique;
+    font-family: auto;
+    color: brown;
+}
+.propsname{
+    margin-left: 194px;
+    margin-top: 16px;
+    font-size: 21px;
+}
+.flex{
+    display: flex;
+}
+.ulluthuvadai{
+    width: 275px;
+    height: 206px;
+    border-radius: 5px;
+}
+.fooditems{
+    width: 275px;
+    border-radius: 5px;
+}
+.poori{
+    width: 275px;
+    border-radius: 5px;
+}
+.pongal{
+    width: 275px;
+    border-radius: 5px;
+}
+.oniondosa{
+    width: 275px;
+    border-radius: 5px;
+
+}
+.kadubu{
+    width: 275px;
+    height: 206px;
+    border-radius: 5px;
+}
+.gheeroast{
+    width: 275px;
+    border-radius: 5px;
+}
+.podiidly{
+    width: 275px;
+    border-radius: 5px;
+}
+.dosa{
+    width: 275px;
+    border-radius: 5px;
+}
+.idly{
+  width: 275px;
+  border-radius: 5px;
+}
+
+.inputnumberpoint{
+    width: 40px;
+    margin-top: 17px;
+    
+    color:chocolate;
+}
+.paddingleft{
+padding-left: 5px;
+
+}
+.foodnamedisplay
+{
+    font-weight: 700;
+    display: flex; 
+    color:chocolate;
+}
+
+.meals{
+    width: 275px;
+    border-radius: 5px;
+}
+.NonvegMeals{
+    width: 275px;
+    height: 175px;
+    border-radius: 5px;
+
+}
+.parrota{
+    width: 275px;
+    border-radius: 5px;
+}
+.EggBiriyani{
+    width: 275px;
+    border-radius: 5px;
+}
+.chickenbiriyani{
+    width: 275px;
+    border-radius: 5px;
+}
+.muttonBiriyani{
+    width: 275px;
+    border-radius: 5px;
+}
+.beefbiriyani{
+    width: 275px;
+    border-radius: 5px;
+}
+.Chicken65{
+    width: 275px;
+    height: 175px;
+    border-radius: 5px;
+}
+.chickenGravy{
+    width: 275px;
+    height: 175px;
+    border-radius: 5px;
+}
+.totalpricewidth{
+    width: 112px;
+}
+.paddingleftprice{
+    padding-left: 20px;
+}
+.paddingdown{
+    margin-top: 50px;
+}
+
+.chickenbiryani{
+    width: 275px;
+    border-radius: 5px;
+}
+.arabianhut{
+    width: 275px;
+    border-radius: 5px;
+}
+.chappathi{
+    width: 275px;
+    border-radius: 5px;
+}
+.Chickennoodels{
+    width: 275px;
+    border-radius: 5px;
+
+}
+.masaladosa{
+    width: 275px;
+    border-radius: 5px;
+}
+.Muttonbiryani{
+    width: 275px;
+    border-radius: 5px;
+}
+.nattukozhibiryani{
+    width: 275px;
+    border-radius: 5px;
+}
+.parrota{
+    width: 275px;
+    border-radius: 5px;
+}
+.vegnoodels{
+    width: 275px;
+    border-radius: 5px;
+}
+.invoice{
+    text-align: center;
+    margin-left: 95px;
+    font-size: x-large;
+}
+.invoiceimg{
+    
+    margin-left: 70px;
+}
+.flexes{
+    display: flex;
+    margin-left: 299px;
+    font-size: large;
+    color:  #f75809;
+    font-weight: 800;
+}
+.eatquote{
+    font-size: large;
+    font-style: oblique;
+    margin-left: 110px;
+    color: #e66a2c;
+    font-family: cursive;
+    font-weight: 900;
+}
+.pdfbutton{
+    width: 57px;
+    height: 33px;
+    background-color: black;
+    color: gold;
+    border-radius: 4px;
+    margin-left: 190px;
+    cursor: pointer;
+}
